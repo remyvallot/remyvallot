@@ -1,23 +1,29 @@
-# Rémy Vallot
+# Hi, I'm Rémy Vallot 👋
 
-[![Website](https://img.shields.io/badge/website-remyvallot.github.io-black?style=flat&logo=firefox)](https://remyvallot.github.io)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-@remyvallot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/remyvallot)  
-
----
-
-👋 I am a PhD candidate (CIFRE) working on  
-**acceleration methods for nonlinear solvers**  
-with a focus on **model order reduction**, **machine learning**,  
-and **hybrid numerical approaches** for large-scale simulations.  
+<!-- Tags -->
+![Focus](https://img.shields.io/badge/Focus-Convergence%20Acceleration-blue)  
+![Topic](https://img.shields.io/badge/Model%20Order%20Reduction-green)  
+![Python](https://img.shields.io/badge/Python-3.9%2B-yellow?logo=python)  
+![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)  
 
 ---
 
-📌 Research topics:
-- Nonlinear solvers & convergence acceleration  
-- Reduced-order modeling (POD, ROMs)  
-- Machine learning for scientific computing  
-- Numerical methods for parametric PDEs  
+🎓 PhD @ ENS Paris-Saclay (CIFRE Michelin).  
+Research on **acceleration methods for nonlinear solvers**,  
+**reduced-order modeling**, and **machine learning for scientific computing**.  
 
 ---
 
-🖥️ → [remyvallot.github.io](https://remyvallot.github.io)  
+### 📬 Reach out  
+
+<a href="mailto:remy.vallot02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20me-red?logo=gmail&logoColor=white" />
+</a>  
+
+<a href="https://www.linkedin.com/in/remy-vallot">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" />
+</a>  
+
+<a href="https://remyvallot.github.io">
+  <img src="https://img.shields.io/badge/Website-remyvallot.github.io-black?logo=internet&logoColor=white" />
+</a>  
