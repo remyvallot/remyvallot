@@ -1,8 +1,7 @@
 # Hi, I'm Rémy Vallot 👋
 
 <!-- Tags -->
-![Focus](https://img.shields.io/badge/Focus-Convergence%20Acceleration-blue)  
-![Topic](https://img.shields.io/badge/Model%20Order%20Reduction-green)  
+![Focus](https://img.shields.io/badge/Focus-Convergence%20Acceleration%20|%20Model%20Order%20Reduction-blue)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-yellow?logo=python)  
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)  
 
