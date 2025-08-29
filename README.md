@@ -1,16 +1,23 @@
-## Hi there 👋
+# Rémy Vallot
 
-<!--
-**remyvallot/remyvallot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/website-remyvallot.github.io-black?style=flat&logo=firefox)](https://remyvallot.github.io)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-@remyvallot-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/remyvallot)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 I am a PhD candidate (CIFRE) working on  
+**acceleration methods for nonlinear solvers**  
+with a focus on **model order reduction**, **machine learning**,  
+and **hybrid numerical approaches** for large-scale simulations.  
+
+---
+
+📌 Research topics:
+- Nonlinear solvers & convergence acceleration  
+- Reduced-order modeling (POD, ROMs)  
+- Machine learning for scientific computing  
+- Numerical methods for parametric PDEs  
+
+---
+
+🖥️ → [remyvallot.github.io](https://remyvallot.github.io)  
