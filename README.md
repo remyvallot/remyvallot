@@ -7,17 +7,15 @@
 
 ---
 
-🎓 PhD @ ENS Paris-Saclay (CIFRE Michelin).  
-Research on **acceleration methods for nonlinear solvers**,  
-**reduced-order modeling**, and **machine learning for scientific computing**.  
+🎓 Ph.D. Candidate @ ENS Paris-Saclay (CIFRE Michelin).  
+Research on **acceleration methods for nonlinear solvers**, **reduced-order modeling**, and **machine learning for scientific computing**.  
 
 ---
 
 ### 📬 Reach out  
 
-<a href="mailto:remy.vallot02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20me-red?logo=gmail&logoColor=white" />
-</a>  
+![Static Badge](https://img.shields.io/badge/Contact%20me!?style=flat&logo=maildotru&link=mailto%3Aremy.vallot02%40gmail.com)
+
 
 <a href="https://www.linkedin.com/in/remy-vallot">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" />
