@@ -1,26 +1,33 @@
-# Hi, I'm Rémy Vallot 👋
+# Hi, I'm Rémy 👋  
 
-<!-- Tags -->
-![Focus](https://img.shields.io/badge/Focus-Convergence%20Acceleration%20|%20Model%20Order%20Reduction-blue)
-![Python](https://img.shields.io/badge/Python-3.9%2B-yellow?logo=python)  
-![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red?logo=pytorch)  
+🎓 PhD Candidate (CIFRE) — *Applied Mathematics & Scientific Computing*  
+📍 Thesis: **Convergence acceleration of nonlinear solver through physics-informed statistical learning**  
 
 ---
 
-🎓 Ph.D. Candidate @ ENS Paris-Saclay (CIFRE Michelin).  
-Research on **acceleration methods for nonlinear solvers**, **reduced-order modeling**, and **machine learning for scientific computing**.  
+### 🔎 Research Focus
+
+My work explores strategies to speed up simulations of complex physical systems by combining:  
+- ⚡ **Model Order Reduction (POD, ROMs)**  
+- 🧠 **Data-driven Methods (Neural Operators, PINNs)**  
+- 🎯 **Convergence Acceleration & Initialization Strategies**  
+- 📊 **Uncertainty Quantification**  
 
 ---
 
-### 📬 Reach out  
+### 🛠️ Tech & Tools
+`Python` `PyTorch` `FEM` `Numerical Optimization`  
 
-![Static Badge](https://img.shields.io/badge/Contact%20me!?style=flat&logo=maildotru&link=mailto%3Aremy.vallot02%40gmail.com)
+---
 
+### 🌐 Links
+🌍 [remyvallot.github.io](https://remyvallot.github.io)  
 
-<a href="https://www.linkedin.com/in/remy-vallot">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" />
-</a>  
+---
 
-<a href="https://remyvallot.github.io">
-  <img src="https://img.shields.io/badge/Website-remyvallot.github.io-black?logo=internet&logoColor=white" />
-</a>  
+### 🏷️ Tags
+![PhDLife](https://img.shields.io/badge/-PhDLife-000?style=flat&logo=academia&logoColor=white)  
+![AppliedMath](https://img.shields.io/badge/-AppliedMath-000?style=flat&logo=python&logoColor=white)  
+![NumericalAnalysis](https://img.shields.io/badge/-NumericalAnalysis-000?style=flat&logo=gnu&logoColor=white)  
+![ModelReduction](https://img.shields.io/badge/-ModelReduction-000?style=flat&logo=scikitlearn&logoColor=white)  
+![MachineLearning](https://img.shields.io/badge/-MachineLearning-000?style=flat&logo=pytorch&logoColor=white)  
