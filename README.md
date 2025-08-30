@@ -22,12 +22,3 @@ My work explores strategies to speed up simulations of complex physical systems 
 
 ### 🌐 Links
 🌍 [remyvallot.github.io](https://remyvallot.github.io)  
-
----
-
-### 🏷️ Tags
-![PhDLife](https://img.shields.io/badge/-PhDLife-000?style=flat&logo=academia&logoColor=white)  
-![AppliedMath](https://img.shields.io/badge/-AppliedMath-000?style=flat&logo=python&logoColor=white)  
-![NumericalAnalysis](https://img.shields.io/badge/-NumericalAnalysis-000?style=flat&logo=gnu&logoColor=white)  
-![ModelReduction](https://img.shields.io/badge/-ModelReduction-000?style=flat&logo=scikitlearn&logoColor=white)  
-![MachineLearning](https://img.shields.io/badge/-MachineLearning-000?style=flat&logo=pytorch&logoColor=white)  
