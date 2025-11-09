@@ -15,10 +15,22 @@ My work explores strategies to speed up simulations of complex physical systems 
 
 ---
 
+### [Papergraph](https://papergraph.net)
+
+📄 **Papergraph** is a lightweight research management tool for organizing papers, building citation graphs, and summarizing literature visually.  
+Built with simplicity in mind — no complex setup, just an intuitive interface to explore and connect ideas.
+
+🔗 [papergraph.net](https://papergraph.net)  
+💻 [GitHub Repository](https://github.com/remyvallot/papergraph)
+
+---
+
 ### 🛠️ Tech & Tools
 `Python` `PyTorch` `FEM` `Numerical Optimization`  
 
 ---
 
 ### 🌐 Links
-🌍 [remyvallot.github.io](https://remyvallot.github.io)  
+🌍 [remyvallot.github.io](https://remyvallot.github.io)
+🔗 [papergraph.net](https://papergraph.net)  
+
